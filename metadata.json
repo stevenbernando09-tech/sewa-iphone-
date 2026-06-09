@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SevePhone - Sewa iPhone Bangka",
+  "description": "Layanan sewa iPhone premium, Kamera profesional (Sony, Canon, Fujifilm), dan jasa editing profesional di Bangka. Harga merakyat, informasi spek lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
